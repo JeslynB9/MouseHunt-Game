@@ -1,12 +1,3 @@
-'''
-Answer for Question 6 - PIAT: The Cheese Shop
-
-Name: Jeslyn Joylie Bowman
-SID: 530481526
-unikey: jbow2146
-
-'''
-
 def buy_cheese(gold: int) -> tuple:
     while True:
         print("You have", gold, "gold to spend.")
