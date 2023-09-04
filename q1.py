@@ -1,17 +1,3 @@
-'''
-We will use the art by Joan Stark as the logo:
-           ____()()
-          /      @@
-jgs `~~~~~\_;m__m._>o
-
-Answer for Question 1 - Game Title
-
-Name: Jeslyn Joylie Bowman
-SID: 530281526
-unikey: jbow2146
-
-'''
-
 title = 'Mousehunt'
 logo = f'''
        ____()()
